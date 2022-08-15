@@ -257,9 +257,9 @@ DiceMaster4.RollList = {
 			stat = "Destreza",
 		},
 		{
-			name = "Supervivencia",
-			subName = "Supervivencia",
-			wheelName = "Supervivencia",
+			name = "Susbsistencia",
+			subName = "Susbsistencia",
+			wheelName = "Susbsistencia",
 			desc = "", 
 			stat = "Vigor",
 		},
