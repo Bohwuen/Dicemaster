@@ -11,6 +11,7 @@ Me.WhoIsTyping = {}
 
 local trackTypes = {
 	["Say: "] = true,
+	["Decir: "] = true,
 	["Party: "] = true,
 	["Raid: "] = true,
 	[UnitName("player").." "] = true,
